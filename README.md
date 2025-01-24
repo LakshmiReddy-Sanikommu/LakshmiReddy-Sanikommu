@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 I'm a grad student at NAU<br>🔭 I’m currently working on my Portfolio Website 😁<br>🌱 I’m currently learning Data Visualization.<br>🎯 2024 Goals: Contribute to Open Source projects<br>💬 Ask me about anything, I am happy to help 😄<br>🧗 I try to: Go beyond and push the bounds<br>🎲 Fun fact: I love connecting with different people 🙌</p>
+<p align="left">👨‍🎓 I'm a grad student at NAU<br>🔭 I’m currently working on my Portfolio Website 😁<br>🌱 I’m currently learning Data Visualization.<br>🎯 2025 Goals: Contribute to Open Source projects<br>💬 Ask me about anything, I am happy to help 😄<br>🧗 I try to: Go beyond and push the bounds<br>🎲 Fun fact: I love connecting with different people 🙌</p>
 
 ###
 
